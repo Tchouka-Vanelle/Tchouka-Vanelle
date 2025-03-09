@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Vanelle Tchouka 👨‍💻
 
 I'm a maths lover and web developper.<br/>
-My interests are mainly in react or java environment.<br/>
+My interests are mainly in react, rust or php environment.<br/>
 
 I study at 3il Limoges (<a href="https://www.3il-ingenieurs.fr/">3il</a>)
 ## Featured Projects
