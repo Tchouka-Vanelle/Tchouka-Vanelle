@@ -7,7 +7,7 @@ I study in apprenticeship at 3il Limoges (<a href="https://www.3il-ingenieurs.fr
 ## Featured Projects
 
 
-| Deployed App | Repo | Technologies Used |
+| Applications | Repo | Technologies Used |
 |:-------------:|:-------------:|:----------|
 | <a href="#"><img src="https://github.com/Tchouka-Vanelle/Tchouka-Vanelle/blob/main/gif_dossier/e_commerce_flutter.gif" width="90%" /></a><br /><a href="https://github.com/Tchouka-Vanelle/flutter_eCommerce_app">E_Commerce_App</a> | <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | <a href="#"> Flutter </a> |
 | <a href="#"><img src="https://github.com/Tchouka-Vanelle/Tchouka-Vanelle/blob/main/gif_dossier/burger.gif" width="90%" /></a><br /><a href="#">Commande_Burger</a> | <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | <a href="#">Html, Css, PHP </a> |
