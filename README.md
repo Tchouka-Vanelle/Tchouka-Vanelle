@@ -1,14 +1,15 @@
 ### Hi 👋 I'm Vanelle Tchouka 👨‍💻
 
-I'm a maths lover and web developper.<br/>
+I'm a programmation lover and web developper.<br/>
 My interests are mainly in react, rust or php environment.<br/>
 
-I study at 3il Limoges (<a href="https://www.3il-ingenieurs.fr/">3il</a>)
+I study in apprenticeship at 3il Limoges (<a href="https://www.3il-ingenieurs.fr/">3il</a>)
 ## Featured Projects
 
 
 | Deployed App | Repo | Technologies Used |
 |:-------------:|:-------------:|:----------|
+| <a href="#"><img src="https://github.com/Tchouka-Vanelle/Tchouka-Vanelle/blob/main/gif_dossier/burger.gif" width="90%" /></a><br /><a href="#">Commande_Burger</a> | <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | <a href="#"> Flutter </a> |
 | <a href="#"><img src="https://github.com/Tchouka-Vanelle/Tchouka-Vanelle/blob/main/gif_dossier/burger.gif" width="90%" /></a><br /><a href="#">Commande_Burger</a> | <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | <a href="#">Html, Css, PHP </a> |
 | <a href="#"><img src="https://github.com/Tchouka-Vanelle/Tchouka-Vanelle/blob/main/gif_dossier/memory.gif" width="80%" /></a><br /><a href="#">MemoryCard</a> | <a href="https://github.com/Tchouka-Vanelle/MemoryCard"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | <a href="#">Java </a> |
 | <a href="#"><img src="https://github.com/Tchouka-Vanelle/Tchouka-Vanelle/blob/main/gif_dossier/react_cart.gif" width="70%" /></a><br /><a href="#">React_Cart</a> | <a href="https://github.com/Tchouka-Vanelle/react_cart"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | React |
